@@ -1,0 +1,78 @@
+#cl {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    margin: 40px;
+    background-color:  yellow;
+    /*background-image: url(setka.png);*/
+}
+
+#start {
+    background-color: greenyellow;
+}
+
+#level1 {
+    background-color: skyblue;
+}
+
+#level2 {
+    background-color: skyblue;
+}
+
+#level3 {
+    background-color: skyblue;
+}
+
+#level4 {
+    background-color: skyblue;
+}
+
+#level5 {
+    background-color: skyblue;
+}
+
+#clearField {
+    background-color: wheat;
+}
+
+#stopLife {
+    background-color: palevioletred;
+}
+
+body{
+  background: #c4c7cb;
+  background-image: -webkit-radial-gradient(cover, #00FFFF,#FF00FF);
+  background-image: -moz-radial-gradient(cover, #7B68EE	, #7B68EE);
+  background-image: -o-radial-gradient(cover, #FF00FF, #a4a8ae);
+  background-image: radial-gradient(cover, #FF00FF	, #FF00FF)
+}
+
+.transparent-text {
+  font-family: 'Rubic One', sans-serif;
+  font-size: 20px;
+  text-transform: lowercase;
+  background: tomato;
+  display: table;
+  margin: 20px auto;
+  color: white;
+  border-radius: 5px;
+  mix-blend-mode: multiply;
+  padding: 5px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
